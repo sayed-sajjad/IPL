@@ -1,7 +1,7 @@
 
-# IPL
+### IPL Exploratory Data Analysis
 
-## Problem Statement
+#### Problem Statement
 The Indian Premier League (IPL) is a professional Twenty20 cricket league in India contested during March or April and May of every year by eight teams representing eight different cities in India.The league was founded by the Board of Control for Cricket in India (BCCI) in 2008. The IPL is the most-attended cricket league in the world. By analysing the players on different aspects like Batting, Bowling and Fielding, let us try to find the value they add to their teams and thus the role they play in winning the tournament.
  
  **Dataset contains data from 2008 - 2018 only.**  
